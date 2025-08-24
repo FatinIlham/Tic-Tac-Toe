@@ -1,4 +1,4 @@
-# Tik-Tak-Toe
+# Tic-Tac-Toe
 
 It is a simple game implemented in Java using a 2D array to represent the game board and basic control flow statements to handle the game logic. The game can be played by two players, who take turns marking spaces on the board with either an "X" or an "O". The goal of the game is to get three of your own marks in a row, either horizontally, vertically, or diagonally. The game can be won, lost, or end in a draw.
 
